@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
