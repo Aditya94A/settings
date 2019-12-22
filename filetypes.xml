@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="html" type="HTML" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping ext="html" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
