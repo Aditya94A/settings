@@ -1,6 +1,6 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="Source Code Pro" />
   </component>
   <component name="EditorSettings">
@@ -14,8 +14,5 @@
   </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="insertQuotesForAttributeValue" value="true" />
   </component>
 </application>
