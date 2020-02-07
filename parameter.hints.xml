@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Kotlin">
         <added pattern="corelib.util.param(paramName)" />
+        <added pattern="corelib.util.field(paramName)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
