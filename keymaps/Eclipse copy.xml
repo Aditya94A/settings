@@ -1,0 +1,13 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CloseActiveTab" />
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="FindUsagesInFile" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
+</keymap>
