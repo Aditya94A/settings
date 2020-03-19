@@ -1,7 +1,14 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateBuildToolWindow">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="FindUsagesInFile" />
   <action id="ReplaceInPath">
