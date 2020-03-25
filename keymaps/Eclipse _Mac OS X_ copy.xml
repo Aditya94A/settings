@@ -9,8 +9,10 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CodeGlance.toggle" />
-  <action id="CompileDirty" />
-  <action id="CopyPaths" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+  </action>
   <action id="DecrementWindowHeight" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
@@ -62,6 +64,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="Run">
+    <keyboard-shortcut first-keystroke="shift meta f11" />
     <keyboard-shortcut first-keystroke="shift meta x" />
   </action>
   <action id="RunToCursor" />
@@ -69,7 +72,6 @@
   <action id="Vcs.Log.GoToRef" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
-    <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
