@@ -1,13 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="credentials" type="PLAIN_TEXT" />
-      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping pattern="cookies" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
