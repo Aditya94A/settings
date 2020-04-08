@@ -9,4 +9,8 @@
     <option name="FONT_SIZE" value="17" />
     <option name="FONT_FAMILY" value="Source Code Pro" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc;?, *.*" />
+  </component>
 </application>
