@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping pattern="cookies" type="PLAIN_TEXT" />
+      <mapping ext="webp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
