@@ -2,5 +2,6 @@
   <component name="UISettings">
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="2048" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
 </application>
