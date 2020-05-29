@@ -2,7 +2,6 @@
   <action id="ActivateBuildToolWindow">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
-  <action id="ChangesView.ShelveSilently" />
   <action id="CloseActiveTab" />
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -12,10 +11,8 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="FindUsagesInFile" />
-  <action id="MethodHierarchy" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
-    <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
