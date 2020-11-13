@@ -14,6 +14,7 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="FindUsagesInFile" />
+  <action id="IntroduceTypeAlias" />
   <action id="MethodHierarchy" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
