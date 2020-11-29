@@ -1,4 +1,4 @@
-<keymap version="1" name="Windows Final" parent="$default">
+<keymap version="1" name="Windows copy Proper Redo" parent="$default">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
@@ -12,28 +12,13 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="alt f3" />
-  </action>
   <action id="FindInPath" />
-  <action id="HippieCompletion">
-    <keyboard-shortcut first-keystroke="alt slash" />
-    <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
-  <action id="MoveLineUp" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
-  <action id="Replace">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-    <keyboard-shortcut first-keystroke="ctrl f" />
-  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
-  <action id="Vcs.Log.GoToRef">
-    <keyboard-shortcut first-keystroke="alt f3" />
-  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>

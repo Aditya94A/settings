@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="git" type="PLAIN_TEXT" />
+      <mapping ext="webp" type="Image" />
       <mapping pattern="master" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="elasticUtils" type="PLAIN_TEXT" />
+      <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="cookies" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="XML" />
