@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="helper" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_labs.pathfix.com_helper.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_labs.pathfix.com_helper.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="rw" type="javaScript">
       <properties>
         <sourceFilesUrls>
