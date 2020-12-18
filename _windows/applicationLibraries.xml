@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="darkmode-js" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_darkmode-js@1.5.7_lib_darkmode-js.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_darkmode-js@1.5.7_lib_darkmode-js.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="helper" type="javaScript">
       <properties>
         <sourceFilesUrls>
