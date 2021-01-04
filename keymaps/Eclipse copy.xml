@@ -2,9 +2,6 @@
   <action id="ActivateBuildToolWindow">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
-  <action id="AndroidExtractStyleAction">
-    <keyboard-shortcut first-keystroke="ctrl back_quote" />
-  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="ChangesView.ShelveSilently" />
@@ -19,7 +16,6 @@
   <action id="FindUsagesInFile" />
   <action id="IntroduceTypeAlias" />
   <action id="MethodHierarchy" />
-  <action id="QuickChangeScheme" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="shift ctrl space" />
