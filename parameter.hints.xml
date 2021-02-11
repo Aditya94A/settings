@@ -5,6 +5,9 @@
         <added pattern="corelib.util.param(paramName)" />
         <added pattern="corelib.util.field(paramName)" />
       </blacklist>
+      <blacklist language="JavaScript">
+        <added pattern="slackBlocks(text,buttonObj)" />
+      </blacklist>
     </blacklists>
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
