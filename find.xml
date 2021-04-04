@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'apnahood-backend'" />
-    <option name="defaultScopeName" value="Project 'apnahood-backend'" />
-    <option name="SEARCH_SCOPE" value="Project 'apnahood-backend'" />
+    <option name="customScope" value="Directory '...\src [apnahood-backend]'" />
+    <option name="defaultScopeName" value="Directory '...\src [apnahood-backend]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\src [apnahood-backend]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
