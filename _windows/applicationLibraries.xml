@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@4.6.0_dist_css_bootstrap.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@4.6.0_dist_css_bootstrap.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="darkmode-js" type="javaScript">
       <properties>
         <sourceFilesUrls>
