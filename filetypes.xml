@@ -1,12 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".ebignore" type="PLAIN_TEXT" />
+      <mapping pattern="cookies" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern=".env-cmdrc" type="PLAIN_TEXT" />
-      <mapping pattern=".ebignore" type="PLAIN_TEXT" />
       <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping pattern="elasticUtils" type="PLAIN_TEXT" />
-      <mapping pattern="cookies" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="XML" />
       <mapping ext="gradle.kts" type="Kotlin" />
